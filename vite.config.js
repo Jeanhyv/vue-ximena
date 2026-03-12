@@ -5,5 +5,5 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   // Añadimos la base con el nombre exacto de tu repositorio en GitHub
-  base: '/',
+  base: '/vue-ximena/',
 })
